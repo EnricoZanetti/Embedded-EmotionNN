@@ -120,4 +120,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - InfluxDB: [InfluxDB](https://www.influxdata.com/)
 - Grafana: [Grafana](https://grafana.com/)
 
-For detailed information on the implementation, refer to the `report.pdf` in the repository.
+For detailed information on the implementation, refer to the `IoT_Project_Report.pdf` in the repository.
