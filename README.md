@@ -4,7 +4,7 @@
 
 This repository contains the implementation of a project aimed at optimizing a neural network for real-time emotion detection using the OpenMV Cam H7 Plus, a resource-constrained edge device, and the Edge Impulse platform. The project includes setting up the hardware and software environments, collecting and preprocessing the FER2013 dataset, applying transfer learning, and optimizing the model for deployment on the OpenMV Cam H7 Plus. The system demonstrates potential for continuous monitoring of emotional states using UART communication protocol, MQTT, and Grafana.
 
-
+![Pipeline of the project](https://github.com/EnricoZanetti/Emotion-Detection-Using-Neural-Networks-on-Embedded-Systems/blob/main/images/IoT-pipeline.png)
 
 ## Table of Contents
 - [Overview](#overview)
