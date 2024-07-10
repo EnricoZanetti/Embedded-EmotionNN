@@ -26,6 +26,7 @@ This repository contains the implementation of a project aimed at optimizing a n
 - Python 3.x
 - Edge Impulse account
 - MQTT broker (e.g., Mosquitto)
+- Node-Red
 - InfluxDB
 - Grafana
 
@@ -122,4 +123,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - InfluxDB: [InfluxDB](https://www.influxdata.com/)
 - Grafana: [Grafana](https://grafana.com/)
 
-For detailed information on the implementation, refer to the `IoT_Project_Report.pdf` in the repository.
+For detailed information on the implementation, refer to the `report/IoT_Project_Report.pdf` in the repository.
