@@ -1,5 +1,7 @@
 # Emotion Detection Using Neural Networks on Embedded Systems
 
+For detailed information on the implementation, refer to the `report/IoT_Project_Report.pdf` in the repository.
+
 ## Overview
 
 This repository contains the implementation of a project aimed at optimizing a neural network for real-time emotion detection using the OpenMV Cam H7 Plus, a resource-constrained edge device, and the Edge Impulse platform.
@@ -127,5 +129,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - MQTT: [Eclipse Mosquitto](https://mosquitto.org/)
 - InfluxDB: [InfluxDB](https://www.influxdata.com/)
 - Grafana: [Grafana](https://grafana.com/)
-
-For detailed information on the implementation, refer to the `report/IoT_Project_Report.pdf` in the repository.
