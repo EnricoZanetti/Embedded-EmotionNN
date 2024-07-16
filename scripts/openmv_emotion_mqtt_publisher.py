@@ -35,12 +35,12 @@ else:
 print(f"Using serial port: {serial_port}")
 
 # MQTT settings
-MQTT_BROKER = "193.205.194.147"
-MQTT_PORT = 10883
-MQTT_TOPIC = "ezan/emotion_detection"
-MQTT_USERNAME = "enricozanetti"
-MQTT_PASSWORD = "12345"
-MQTT_CLIENT_ID = "openmv"
+MQTT_BROKER = "x.x.x.x"
+MQTT_PORT = yyyyy
+MQTT_TOPIC = "your_topic"
+MQTT_USERNAME = "your_username"
+MQTT_PASSWORD = "your_password"
+MQTT_CLIENT_ID = "your_client_id"
 
 # Initialize MQTT client with the correct callback API version
 mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, MQTT_CLIENT_ID)
