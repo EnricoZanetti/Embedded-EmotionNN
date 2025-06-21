@@ -1,6 +1,6 @@
 # Emotion Detection Using Neural Networks on Embedded Systems
 
-For detailed information on the implementation, refer to the `report/IoT_Project_Report.pdf` in the repository.
+For detailed information on the implementation, refer to the [report](https://github.com/EnricoZanetti/Embedded-EmotionNN/blob/main/report/IoT_Project_Report.pdf) in the repository.
 
 ## Overview
 
