@@ -38,7 +38,7 @@ The project includes setting up the hardware and software environments, collecti
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/EnricoZanetti/Emotion-Detection-Using-Neural-Networks-on-Embedded-Systems.git](https://github.com/EnricoZanetti/Embedded-EmotionNN)
+   git clone https://github.com/EnricoZanetti/Embedded-EmotionNN
    cd Emotion-Detection-Using-Neural-Networks-on-Embedded-Systems
    ```
 
